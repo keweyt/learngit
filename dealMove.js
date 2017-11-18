@@ -16,3 +16,4 @@ for(var i=0;i<mm;i++){
 	allstrs.push(str);
 }
 add a line
+Git has a mutable index called stage.
